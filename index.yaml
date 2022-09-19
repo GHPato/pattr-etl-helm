@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pattr-etl:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-19T12:20:01.8393077-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 8acf65796ae8b03f830580267bdc4cd2d00c0156a4ab040cc19de4b1f7fb47fb
+    name: pattr-etl
+    type: application
+    urls:
+    - https://ghpato.github.io/pattr-etl-helm/pattr-etl-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-09-19T12:20:01.836081-03:00"
